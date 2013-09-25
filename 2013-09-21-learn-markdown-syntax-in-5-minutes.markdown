@@ -102,4 +102,4 @@ categories: Markdown
 
 {% img /images/blog2013/Sep/learnMarkdown9.png %}
 
-你可以从 [Dropbox](https://www.dropbox.com/s/pwy02rsbxdmvnuu/2013-09-21-learn-markdown-syntax-in-5-minutes.markdown) 或 [百度网盘](http://pan.baidu.com/share/link?shareid=454598908&uk=1141297894) 下载本文的 Markdown。
+你可以从 [这里](https://github.com/VincentSit/markdownSample) 下载本文的 Markdown。
